@@ -10,6 +10,6 @@ internal class DummyServiceTest {
     @Test
     fun simpleFun() {
         Assertions.assertThat(dummyService.simpleFun())
-            .isEqualTo(3)
+            .isEqualTo(2)
     }
 }
